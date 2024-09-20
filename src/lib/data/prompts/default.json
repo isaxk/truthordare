@@ -1,0 +1,46 @@
+[
+    {
+        "prompt": "Tickle ?{ranPerson}'s feet",
+        "type": "dare"
+    },
+    {
+        "prompt": "Say something dirty to ?{ranPerson}.",
+        "type": "dare"
+    },
+    {
+        "prompt": "Share someone in the rooms secret without revealing their name.",
+        "type": "dare"
+    },
+    {
+        "prompt": "Do a chicken impression",
+        "type": "dare"
+    },
+    {
+        "prompt": "Stare into ?{ranPerson}'s soul for 90 seconds. Whoever smiles first has to lick the floor.",
+        "type": "dare"
+    },
+    {
+        "prompt": "Which person here is the most attractive?",
+        "type": "truth"
+    },
+    {
+        "prompt": "Who's the worst dressed in the room?",
+        "type": "truth"
+    },
+    {
+        "prompt": "Do you have any fetishes?",
+        "type": "truth"
+    },
+    {
+        "prompt": "What's something you've never told anyone before?",
+        "type": "truth"
+    },
+    {
+        "prompt": "Smash or pass ?{ranPerson}?",
+        "type": "truth"
+    },
+    {
+        "prompt": "Who in this room is most likely to be a prostitute?",
+        "type": "truth"
+    }
+]
